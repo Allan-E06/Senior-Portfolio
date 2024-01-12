@@ -1,0 +1,51 @@
+.nav-item:hover, .active{
+    border-bottom: 2px solid #4169e1;
+}
+#headerSeniorImg {
+    width: 38vw;
+    border-radius: 10px;
+}
+header {
+    margin-top: 20px;
+}
+header section .container {
+    background-color: #eff8fb9f;
+    border-radius: 15px;
+    text-align: center;
+}
+header section .container .row #headerText{
+    /* background-color: #d2d2d28c; */
+    border-radius: 15px;
+}
+
+header section .container .row {
+    justify-content: center;
+    align-items: center;
+}
+main section {
+    margin-top: 20px;
+}
+
+.PIQs iframe, .resume iframe {
+    width: 90vw;
+    height: 80vh;
+    margin: 0 auto;
+}
+.jobApp img {
+    width: 92vw;
+    height: auto;
+}
+
+div#poem  {
+    text-align: center;
+}
+footer address {
+    text-align: center;
+}
+footer hr {
+    border: 1px solid black;
+}
+footer address div p{
+    /* width: 150px; */
+     display: inline-block;
+  }
